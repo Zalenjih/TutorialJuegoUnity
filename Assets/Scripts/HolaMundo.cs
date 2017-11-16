@@ -7,7 +7,7 @@ public class HolaMundo : MonoBehaviour {
 	int numero = 0;
 	// Use this for initialization
 	void Start () {
-		print ("Hola mundo");
+		print ("Hola mundo, este es el único cambio necesario para visualizarlo en GitHub");
 	}
 	
 	// Update is called once per frame
